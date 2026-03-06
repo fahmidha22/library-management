@@ -3,13 +3,15 @@ import Home from "./Components/Home";
 import Category from "./Components/Category";
 import {BrowserRouter, Route, Routes} from 'react-router-dom'
 import Studentlogin from "./Components/Studentlogin";
+import Studentregister from "./Components/Studentregister";
 
 function App() {
   return(
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home/>}/>
-        <Route path="/studentlogin" element={<Studentlogin/>}/>
+        <Route path="/Studentlogin" element={<Studentlogin/>}/>
+        <Route path="/Studentregister" element={<Studentregister/>}/>
       </Routes>
     </BrowserRouter>
   );

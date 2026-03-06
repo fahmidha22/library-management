@@ -13,7 +13,8 @@ function Home(){
                     <li><a href="#feature">Features</a></li>
                     <li><a href="#books">Books</a></li>
                     <li><Link to='/adminlogn'>Admin Login</Link></li>
-                    <li><Link to='/studentlogin'>Student Login</Link></li>
+                    <li><Link to='/Studentlogin'>Student Login</Link></li>
+                    <li><Link to='/Studentregister'> register</Link></li>
                 </ul>
                 <button className="register">Register</button>
             </nav>

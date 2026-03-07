@@ -26,12 +26,18 @@
 
 
 
-.register{
+.register-btn{
     background: orange;
+    border: none;
     padding: 8px 15px;
     border-radius: 5px;
+    color: white;
     margin-right: 100px;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: 500;
 }
+
 .Base{
     
     height:500px;

@@ -33,7 +33,7 @@
     border: 1px solid #ccc;
     border-radius: 5px;
 }
-.register-btn{
+.login-btn{
     width: 100%;
     padding:12px ;
     background:#ff8c2b ;
@@ -42,4 +42,12 @@
     border-radius:6px ;
     cursor: pointer;
     margin-top: 10px;
+}
+.login-text{
+    text-align: center;
+    margin-top: 15px;
+}
+.login-text span{
+    color: #ff8c2b;
+    cursor: pointer;
 }

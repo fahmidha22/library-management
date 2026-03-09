@@ -12,7 +12,7 @@ function Home(){
                     <li><a href="#Home">Home</a></li>
                     <li><a href="#feature">Features</a></li>
                     <li><a href="#books">Books</a></li>
-                    <li><Link to='/adminlogn'>Admin Login</Link></li>
+                    <li><Link to='/Adminlogin'>Admin Login</Link></li>
                     <li><Link to='/Studentlogin'>Student Login</Link></li>
                 </ul>
                 <Link to="/Studentregister" className=".register-btn"> Register</Link>

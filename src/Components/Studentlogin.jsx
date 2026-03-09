@@ -1,7 +1,7 @@
 import "../Styles/Studentlogin.css"
 import { Link } from 'react-router-dom'
 
-const Studentlogin = () => {
+const Studentlogin = () => {   
   return (
     <div>
       <div class="login-page">
